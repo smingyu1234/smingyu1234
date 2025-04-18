@@ -1,4 +1,4 @@
-### smingyu1234
+# smingyu1234
 <div align="center"> <p>computer game programer(practicer)</p>
 <p>from : republic of korea</p>
 <p>sungkonghoe university</p>
