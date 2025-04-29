@@ -1,6 +1,6 @@
 # smingyu1234
-<div align="center"> <p>computer game programer(practicer)</p>
-<p>sungkonghoe university</p>
+<div align="center"> <p>🖥computer game programer(practicer)🖥</p>
+<p>🏫sungkonghoe university🏫</p>
 
 ## languege
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=222"/> 
